@@ -1,0 +1,15 @@
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\DZ8_C#.csproj.AssemblyReference.cache
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\DZ8_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\DZ8_C#.AssemblyInfoInputs.cache
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\DZ8_C#.AssemblyInfo.cs
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\DZ8_C#.csproj.CoreCompileInputs.cache
+C:\GIT\С#\DZ8_C#\bin\Debug\net6.0\DZ8_C#.exe
+C:\GIT\С#\DZ8_C#\bin\Debug\net6.0\DZ8_C#.deps.json
+C:\GIT\С#\DZ8_C#\bin\Debug\net6.0\DZ8_C#.runtimeconfig.json
+C:\GIT\С#\DZ8_C#\bin\Debug\net6.0\DZ8_C#.dll
+C:\GIT\С#\DZ8_C#\bin\Debug\net6.0\DZ8_C#.pdb
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\DZ8_C#.dll
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\refint\DZ8_C#.dll
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\DZ8_C#.pdb
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\DZ8_C#.genruntimeconfig.cache
+C:\GIT\С#\DZ8_C#\obj\Debug\net6.0\ref\DZ8_C#.dll
